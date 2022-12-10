@@ -1,0 +1,3 @@
+[submodule "RestaurantApp"]
+	path = RestaurantApp
+	url = git@github.com:c4arl0s/RestaurantApp.git
