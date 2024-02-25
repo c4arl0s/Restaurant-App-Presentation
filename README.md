@@ -1,5 +1,11 @@
 # [go back to iOS apps](https://github.com/c4arl0s#ios-apps-using-swiftuikit)
 
+In order to update an existing Git submodule execute: (You might need permissions from Owner)
+
+```console
+ git submodule update --remote --merge
+```
+
 # [Restaurant App](https://github.com/c4arl0s/RestaurantApp#restaurant-app---content)
 
 Interactive menu that displays offerings, adds orders and sent order request using a local service.
